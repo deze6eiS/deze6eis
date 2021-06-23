@@ -12,7 +12,6 @@ Currently studying programming (Front-end) in the dream of working as a develope
 <div align="center">
   
 [![deze6eis's github stats](https://github-readme-stats.vercel.app/api?username=deze6eis&show_icons=true&theme=dark&count_private=false)](https://github.com/anuraghazra/github-readme-stats)
-  <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deze6eis&layout=compact&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
